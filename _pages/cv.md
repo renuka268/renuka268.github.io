@@ -86,9 +86,8 @@ Observing Runs/Telescope Time
 
 Honors/Awards
 ---
-  * Secured Willard L. and Ruth P. Eccles Fellowship (30K$ Stipend + 5K$ travel award) for the academic year 2018-2019 at University of Utah. 
+  * Secured Willard L. and Ruth P. Eccles Fellowship ($30,000 Stipend + $5000 travel award) for the academic year 2018-2019 at University of Utah. 
   * Received Outstanding Graduate Student Award for the academic year 2018-2019 at University of Utah
-  * Graduate Travel Awards (500$), University of Utah, 2019.
   * Received Prime Ministers scholarship for 4 years during my undergraduate as best student for the years 2007-2011. 
   * Secured an Best Undergraduate Student Award for the academic year 2007-2008.
 
