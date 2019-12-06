@@ -15,7 +15,7 @@ Research Interests
 ---
 I study the centers of galaxies in the nearby universe by measuring their masses to better understand the evolution of galaxies with their central objects. The galactic centers contain both black holes and nuclear star clusters. I use the stellar kinematics near the centers to determine the amount of mass contained in the black holes and nuclear star clusters.
 ![](/images/m51.jpg)
-
+*M51a and M51b - Also known as the whirlpool galaxy, one of my favorite galaxies. M51 with its counterpart around 23 million light years away. A black hole is thought to exist in its center. Also potentially hosts an NSC at its center!*
 *How massive are the black holes in lowest-mass galaxies?*
 
 *How do nuclear star clusters evolve with their host galaxies?*

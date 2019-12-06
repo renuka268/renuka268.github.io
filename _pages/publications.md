@@ -14,7 +14,7 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-1. Detection of Enhanced Central Mass-to-Light Ratios in Early-Type Galaxies: Evidence for Black holes?
+1.Detection of Enhanced Central Mass-to-Light Ratios in Early-Type Galaxies: Evidence for Black holes?
 ----
 Here is the ADS [link](https://ui.adsabs.harvard.edu/abs/2017ApJ...850...15P/abstract){:target="_blank"} for the publication
 
@@ -36,8 +36,8 @@ with >3σ enhancement in M/L which give a high BH mass of ∼10<sup>8</sup>M$_\o
 *Fig:1. Left Panel: The ratio of central M/L<sub>cen</sub> and M/L<sub>dyn</sub> in r-band (derived from dynamical models fit outside the nucleus and within ∼1R$_e$) are plotted against the mass of the galaxy. The galaxies that had a color gradient in central 1′′ are indicated in gray as their M/L<sub>cen</sub> values are likely less reliable. The error bars include both errors from velocity dispersion measurements and mass modeling errors. Right Panel: Distribution of enhancement of central (M/L)<sub>cen</sub> with respect to (M/L)<sub>dyn</sub>. This indicates the percentage by which (M/L)<sub>cen</sub> is higher than (M/L)<sub>dyn</sub>; the median enhancement is 14%.*
 
 
-2.  Weighing Nuclear star clusters and black holes in nearby low-mass galaxies
-
+2.Weighing Nuclear star clusters and black holes in nearby low-mass galaxies
+---
 Here is the ADS [link](https://ui.adsabs.harvard.edu/abs/2019arXiv191109686P/abstract){:target="_blank"} for the publication.
 
 To weigh the NSCs in our nearby universe using high resolution data, we surveyed all the galaxies within 10 Mpc that hosted a visible NSC. A sample of 29 galaxies were selected to obtain kinematic data their centers using GNIRS/GEMINI and XSHOOTER/VLT; these also had multi-band, high-resolution *HST* data. We performed photometry on them using the IMFIT procedure typically with different S\'ersic profiles and then converted them to MGE models. These models will be combined with the derived kinematic data in my following work, and NSC masses will be obtained using JAM models. Currently, we estimated their masses to understand the scaling relationships better and thus, in turn, the galaxies' evolutionary mechanisms.  For the first time, we have also derived 3D density profiles of the NSCs that also correlate with the galaxy masses. We have obtained scaling relations for the NSC densities as well, to help theorists in estimating TDE rates (such as in Stone & Metzger 2016) based on the observed central densities. This work will expand the current sample of dynamical masses of NSCs by a factor of 3, allowing us to place a firm footing on these scaling relations.
