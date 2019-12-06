@@ -46,12 +46,13 @@ Skills
 
 Publications
 ---
-  * Pechetti, Renuka; Seth, Anil; Neumayer, Nadine; Georgiev, Iskren; Kacharov, Nikolay; den Brok, Mark; Strader, Jay; “Luminosity models and densities of nuclear star clusters in a nearby volume-limited sample of 28 galaxies” (about to be submitted). 
+  * Pechetti, Renuka; Seth, Anil; Neumayer, Nadine; Georgiev, Iskren; Kacharov, Nikolay; den Brok, Mark; Strader, Jay; “Luminosity models and densities of nuclear star clusters in a nearby volume-limited sample of 28 galaxies”. 
   * Pechetti, Renuka; Seth, Anil; Cappellari, Michele; McDermid, Richard; den Brok, Mark; Mieske, Steffen; Strader, Jay; “Detection of Enhanced Central Mass-to-light Ratios in Low-mass Early-type Galaxies: Evidence for Black Holes?”
   * Ahn, Christopher P.; Seth, Anil C.; Cappellari, Michele; Krajnovic, Davor; Strader, Jay; Voggel, Karina T.; Walsh, Jonelle L.; Bahramian, Arash; Baumgardt, Holger; Brodie, Jean; Chilingarian, Igor; Chomiuk, Laura; den Brok, Mark; Frank, Matthias; Hilker, Michael, McDermid, Richard; Mieske, Steffen; Neumayer, Nadine; Nguyen, Dieu D.; Pechetti, Renuka; Romanowsky, Aaron J.; Spitler, Lee; “The Black Hole in the Most Massive Ultracompact Dwarf Galaxy M59-UCD3” 
 
 Conference/Workshops
 ---
+  * Presented a poster on “Improved densities of nuclear star clusters as a tool to predict TDE rates” at JSI conference -‘The new faces of black holes’ held at Maryland, November 2019. 
   * Presented a poster on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘AAS - 233’ conference held at Seattle, Washington - January 2019
   * Presented a talk on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘Survival of dense star clusters in the Milky-Way system’ conference held at Max Planck Institut fur Astronomie, Heidelberg, Germany – November 2018
   * Presented a talk on ‘Enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?’  at ‘CAASTRO – From Black hole to Environment’ conference conducted at Australia National University, Canberra, Australia in August 2017.
@@ -65,10 +66,6 @@ Invited Talks
 ---
   * Presented a talk on “Weighing centers of nearby galaxies” at Indian Institute of Astrophysics in December 2019.
   * Presented a talk on “Detection of enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?” at Max Planck Institut fur Astronomie, in May 2018.
-
-
-Teaching
----
 
   
 Service and leadership

@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Talks
+Talks/Posters
 ---
-Talk on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘Survival of dense star clusters in the Milky-Way system’ conference held at Max Planck Institut fur Astronomie, Heidelberg, Germany – November 2018
+* Presented a poster on “Improved densities of nuclear star clusters as a tool to predict TDE rates” at JSI conference -‘The new faces of black holes’ held at Maryland, November 2019. 
+* Talk on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘Survival of dense star clusters in the Milky-Way system’ conference held at Max Planck Institut fur Astronomie, Heidelberg, Germany – November 2018
 * Presented a talk on ‘Enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?’  at ‘CAASTRO – From Black hole to Environment’ conference conducted at Australia National University, Canberra, Australia in August 2017.
 * Presented a poster on ‘Enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?’ at ‘Elusive AGN’ conference at George Mason University, Virginia in June 2017.
 * Attended Summer school of Statistics at Penn State University in June, 2016.
