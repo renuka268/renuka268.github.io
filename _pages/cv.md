@@ -34,27 +34,29 @@ Work experience
   * Research on detecting enhanced mass-to-light ratios in nearby low-mass early-type galaxies. 
   * Creating mass models for nearby galaxies for estimating black hole masses.
   * Finding nuclear star cluster masses and densities in nearby galaxies by creating high-resolution mass models.
-  * Estimating black hole mass in a globular cluster of CenA using dynamical modeling.
+  * Estimating black hole mass in a globular cluster of M31 using dynamical modeling.
 
 Skills
 ---
 * Languages
-  * Python, C, MATLAB, Java, IRAF, R
+  * Python, C, IRAF, R,  MATLAB, Java, PLSQL
 * Data Analysis
-  * Mass modeling of galaxies, Spectroscopic reduction techniques, Jeans modeling, pPXF, Voronoi Binninh, Stellar population models, GALFIT, IMFIT
-
+  * Spectroscopic reduction techniques, Photometry of galaxies using various dust masking techniques, MCMC optimization, HST data analysis, Astrodrizzle, IFU data analysis, Multi-Gaussian expansion models, Jeans Anisotropic modeling, pPXF, Voronoi binning, Stellar population synthesis modeling, GALFIT, IMFIT
 
 Publications
 ---
-  * Pechetti, Renuka; Seth, Anil; Neumayer, Nadine; Georgiev, Iskren; Kacharov, Nikolay; den Brok, Mark; Strader, Jay; “Luminosity models and densities of nuclear star clusters in a nearby volume-limited sample of 28 galaxies”. 
+  * Pechetti, Renuka; Seth, Anil; Mark den Brok; Nelson Caldwel; Mark Gieles; Sebastian Kamann; Nora Lutzgendorf; Nadine Neumayer; Jay Strader; David Sand; Ricardo Schiavon; Karina Voggel; Mr. Andrew Stephens; “Detection of an IMBH in a globular cluster in M31” (in progress)
+  * Pechetti, Renuka; Seth, Anil; Neumayer, Nadine; Georgiev, Iskren; Kacharov, Nikolay; den Brok, Mark; Strader, Jay; “Luminosity models and densities of nuclear star clusters for a nearby volume-limited sample of 28 galaxies”. 
   * Pechetti, Renuka; Seth, Anil; Cappellari, Michele; McDermid, Richard; den Brok, Mark; Mieske, Steffen; Strader, Jay; “Detection of Enhanced Central Mass-to-light Ratios in Low-mass Early-type Galaxies: Evidence for Black Holes?”
   * Ahn, Christopher P.; Seth, Anil C.; Cappellari, Michele; Krajnovic, Davor; Strader, Jay; Voggel, Karina T.; Walsh, Jonelle L.; Bahramian, Arash; Baumgardt, Holger; Brodie, Jean; Chilingarian, Igor; Chomiuk, Laura; den Brok, Mark; Frank, Matthias; Hilker, Michael, McDermid, Richard; Mieske, Steffen; Neumayer, Nadine; Nguyen, Dieu D.; Pechetti, Renuka; Romanowsky, Aaron J.; Spitler, Lee; “The Black Hole in the Most Massive Ultracompact Dwarf Galaxy M59-UCD3” 
+  * Nguyen, Dieu D.; Seth, Anil C.; Neumayer, Nadine; Kamann, Sebastian; Voggel, Karina T.; Cappellari, Michele; Picotti, Arianna; . Nguyen, Phuong M; Böker, Torsten; Debattista, Victor; Caldwell, Nelson; McDermid, Richard; Bastian, Nathan; Ahn, Christopher C.; Pechetti, Renuka; “Nearby Early-type Galactic Nuclei at High Resolution: Dynamical Black Hole and Nuclear Star Cluster Mass Measurements”
+  * Nguyen, Dieu D.; Seth, Anil C.; Neumayer, Nadine; Iguchi, Satoru; Cappellari, Michelle; Strader, Jay; Chomiuk, Laura; Tremou, Evangelia; Pacucci, Fabio; Nakanishi, Kouichiro; Bahramian, Arash; Nguyen, Phuong M.; den Brok, Mark; Ahn, Christopher C.; Voggel, Karina T.; Kacharov, Nikolay; Tsukui, Takafumi; Ly, Cuc K.; Dumont, Antoine; Pechetti, Renuka; “Improved Dynamical Constraints on the Masses of the Central Black Holes in Nearby Low-mass Early-type Galactic Nuclei and the First Black Hole Determination for NGC 205”
 
 Conference/Workshops
 ---
   * Presented a poster on “Improved densities of nuclear star clusters as a tool to predict TDE rates” at JSI conference -‘The new faces of black holes’ held at Maryland, November 2019. 
   * Presented a poster on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘AAS - 233’ conference held at Seattle, Washington - January 2019
-  * Presented a talk on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘Survival of dense star clusters in the Milky-Way system’ conference held at Max Planck Institut fur Astronomie, Heidelberg, Germany – November 2018
+  * Presented a talk on ‘Masses and Densities of Nuclear Star Clusters in nearest galaxies’ at ‘Survival of dense star clusters in the Milky-Way system’ conference held at Max Planck Institüt für Astronomie, Heidelberg, Germany – November 2018
   * Presented a talk on ‘Enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?’  at ‘CAASTRO – From Black hole to Environment’ conference conducted at Australia National University, Canberra, Australia in August 2017.
   * Presented a poster on ‘Enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?’ at ‘Elusive AGN’ conference at George Mason University, Virginia in June 2017.
   * Attended Summer school of Statistics at Penn State University in June, 2016.
@@ -65,7 +67,7 @@ Conference/Workshops
 Invited Talks
 ---
   * Presented a talk on “Weighing centers of nearby galaxies” at Indian Institute of Astrophysics in December 2019.
-  * Presented a talk on “Detection of enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?” at Max Planck Institut fur Astronomie, in May 2018.
+  * Presented a talk on “Detection of enhanced central mass-to-light ratios in low-mass early-type galaxies: Evidence for black holes?” at Max Planck Institüt für Astronomie, in May 2018.
 
   
 Service and leadership
@@ -86,5 +88,5 @@ Honors/Awards
   * Secured Willard L. and Ruth P. Eccles Fellowship ($30,000 Stipend + $5000 travel award) for the academic year 2018-2019 at University of Utah. 
   * Received Outstanding Graduate Student Award for the academic year 2018-2019 at University of Utah
   * Received Prime Ministers scholarship for 4 years during my undergraduate as best student for the years 2007-2011. 
-  * Secured an Best Undergraduate Student Award for the academic year 2007-2008.
+  * Secured Best Undergraduate Student Award for the academic year 2007-2008.
 
