@@ -45,7 +45,7 @@ Skills
 
 Publications
 ---
-  * Pechetti, Renuka; Seth, Anil; Mark den Brok; Nelson Caldwel; Mark Gieles; Sebastian Kamann; Nora Lutzgendorf; Nadine Neumayer; Jay Strader; David Sand; Ricardo Schiavon; Karina Voggel; Mr. Andrew Stephens; “Detection of an IMBH in a globular cluster in M31” (in progress)
+  * Pechetti, Renuka; Seth, Anil;Sebastian Kamann;Mark den Brok; Nelson Caldwel; Mark Gieles; Nora Lutzgendorf; Nadine Neumayer; Jay Strader; David Sand; Ricardo Schiavon; Karina Voggel; “Detection of a 100,000 M<sub>☉</sub> IMBH in M31's most massive globular cluster: A tidally stripped nucleus”
   * Pechetti, Renuka; Seth, Anil; Neumayer, Nadine; Georgiev, Iskren; Kacharov, Nikolay; den Brok, Mark; Strader, Jay; “Luminosity models and densities of nuclear star clusters for a nearby volume-limited sample of 28 galaxies”. 
   * Pechetti, Renuka; Seth, Anil; Cappellari, Michele; McDermid, Richard; den Brok, Mark; Mieske, Steffen; Strader, Jay; “Detection of Enhanced Central Mass-to-light Ratios in Low-mass Early-type Galaxies: Evidence for Black Holes?”
   * Ahn, Christopher P.; Seth, Anil C.; Cappellari, Michele; Krajnovic, Davor; Strader, Jay; Voggel, Karina T.; Walsh, Jonelle L.; Bahramian, Arash; Baumgardt, Holger; Brodie, Jean; Chilingarian, Igor; Chomiuk, Laura; den Brok, Mark; Frank, Matthias; Hilker, Michael, McDermid, Richard; Mieske, Steffen; Neumayer, Nadine; Nguyen, Dieu D.; Pechetti, Renuka; Romanowsky, Aaron J.; Spitler, Lee; “The Black Hole in the Most Massive Ultracompact Dwarf Galaxy M59-UCD3” 
