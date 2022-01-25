@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 
-I am Renuka Pechetti, a PhD student at the University of Utah in Salt Lake City
+I am Renuka Pechetti, Postdoctoral Researcher at Liverpool John Moores University  
+
+### Current Research Interest 
+I am currently studying the dynamics of the centers of globular clusters in the Milky Way especially Omega-Centauri due to its proposed intermediate-mass black hole (IMBH). My research involves studying the velocities of stars around the center to confirm the presence of any IMBH. I am also studying the dynamics of stars at the centers of globular clusters in Magellanic clouds. 
 
 Research Interests
 ---
-I study the centers of galaxies in the nearby universe by measuring their masses to better understand the evolution of galaxies with their central objects. The galactic centers can contain both black holes and nuclear star clusters. I use the stellar kinematics near the centers to determine the amount of mass contained in the black holes and nuclear star clusters.
+I also study the centers of galaxies in the nearby universe by measuring their masses to better understand the evolution of galaxies with their central objects. The galactic centers can contain both black holes and nuclear star clusters. I use the stellar kinematics near the centers to determine the amount of mass contained in the black holes and nuclear star clusters.
 
 <img style="padding: 0 30px; float: left;" src="/images/m51.jpg" alt="m51" height="350" width="350" class="center">
 <!-- <img style="float: left;" src="/images/m51.jpg"> -->
